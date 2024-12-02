@@ -18,7 +18,7 @@
                     "ignoreFailures": true
                 },
             ],
-            "preLaunchTask": "GCC Build"
+            "preLaunchTask": "GCCBuild"
         },
         {
             "name": "Python Debug",

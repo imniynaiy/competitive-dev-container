@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "GCC Build",
+			"label": "GCCBuild",
 			"command": "g++",
 			"args": [
 				"-fdiagnostics-color=always",
