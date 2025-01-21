@@ -40,6 +40,14 @@ Then, launch debug task (ex: `Go Debug`).
 
 ![](https://i.gyazo.com/855254e07ad1a7608618bdf6fb1f626d.gif)
 
+## Push code to submodule
+
+After push, run:
+
+```bash
+git submodule update --init --recursive
+```
+
 # Links
 
 - Devcontainers
